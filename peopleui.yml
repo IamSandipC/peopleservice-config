@@ -1,0 +1,5 @@
+eureka:
+  client:
+    shouldRegisterWithEureka: false
+DefaultAdminUsername: Administrator@test.com
+DefaultAdminPassword: YouShouldChangeThisPassword1!
